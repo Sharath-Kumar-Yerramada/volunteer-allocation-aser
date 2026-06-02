@@ -4,8 +4,8 @@
 A linear programming approach to allocating teaching volunteer hours 
 across Indian districts to maximize foundational learning outcomes.
 Uses district-level data from the ASER (Annual Status of Education 
-Report) 2024. Course project for Advanced Statistical Methods I, 
-BSDS-II, Indian Statistical Institute Bangalore (May 2026).
+Report) 2024. Course project for Optimization, 
+BSDS-I, Indian Statistical Institute Bangalore (May 2026).
 Team: Anubhav Ray, Antareep Dutta Choudhury, Sharath Kumar Yerramada.
 
 ## The Problem
