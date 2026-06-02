@@ -1,22 +1,22 @@
 # Optimizing Volunteer Deployment in Rural India
 
 ## Overview
-A linear programming approach to allocating teaching volunteer hours 
+A linear programming approach to allocating teaching volunteer hours
 across Indian districts to maximize foundational learning outcomes.
-Uses district-level data from the ASER (Annual Status of Education 
-Report) 2024. Course project for Optimization, 
-BSDS-I (2nd semester), Indian Statistical Institute Bangalore (May 2026).
+Uses district-level data from the ASER (Annual Status of Education
+Report) 2024. Course project for Optimization, BSDS (Semester II),
+Indian Statistical Institute Bangalore (2025).
 Team: Anubhav Ray, Antareep Dutta Choudhury, Sharath Kumar Yerramada.
 
 ## The Problem
-Educational volunteers are scarce. This project frames their deployment 
-as a constrained optimization problem: how to distribute a fixed budget 
-of volunteer hours across districts within each state to maximize 
+Educational volunteers are scarce. This project frames their deployment
+as a constrained optimization problem: how to distribute a fixed budget
+of volunteer hours across districts within each state to maximize
 expected learning impact, subject to fairness constraints.
 
 ## What's in this repo
 - `ASER_Volunteer_Optimization_Report.pdf` — full project report
-- `district2.py` — Python script for data cleaning, LP formulation, 
+- `district2.py` — Python script for data cleaning, LP formulation,
   and solving (coming soon)
 
 ## Method
@@ -33,7 +33,7 @@ expected learning impact, subject to fairness constraints.
   identified as highest-need
 
 ## Data Source
-ASER Centre 2024 — [asercentre.org](https://asercentre.org)  
+ASER Centre 2024 — [asercentre.org](https://asercentre.org)
 CSV files: [github.com/AnubhavRay25/ASER](https://github.com/AnubhavRay25/ASER)
 
 ## Tools
